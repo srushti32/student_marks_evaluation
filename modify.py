@@ -12,4 +12,3 @@ print("average:", sum(scores) / len(scores))
 print("maximum:", max(scores))
 print("minimum:", min(scores))
 
-
